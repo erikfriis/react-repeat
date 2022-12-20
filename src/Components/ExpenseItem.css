@@ -1,0 +1,15 @@
+.container {
+	display: flex;
+	justify-content: space-between;
+	background-color: red;
+	margin: 1 rem;
+}
+
+.left {
+	display: flex;
+	margin: 1rem;
+}
+
+.date {
+	margin-right: 1rem;
+}
